@@ -2,6 +2,8 @@
 ## Honepots Deployed
 1. Dionaea (1042 attacks)
 
+<img src="Attacks.png" width="800">
+
 ## Brief
 I deployed a Dionaea honeypot using an admin virtual machine and one honeypot.
 
